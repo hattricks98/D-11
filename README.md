@@ -1,2 +1,2 @@
 # Turing-Machine
-A fantasy sports prediction system,
+A fantasy sports prediction system.
